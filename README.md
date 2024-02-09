@@ -9,4 +9,7 @@
   <li>Confirmed actionable insights effectively, contributing to informed decision-making processes related to employee engagement</li>  
 </ul>
 </p>
+<p>
+  Link to the project and dataset : <a href = https://www.kaggle.com/code/dennismathewjose/emplolyeesurvey/notebook>EmployeeSatisfactionAnalysis</a>
+</p>
 
